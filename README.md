@@ -1,27 +1,42 @@
-# 💫 About Me:
-Building the front-end for NyctOwl Studio's latest project<br>Looking for exciting frontend projects to collaborate on! Let's build something amazing together!<br>Diving deeper into React's ecosystem.<br>I love playing chess<br><br>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=arufadesuwa&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=AI%20Enthusiast%20%7C%20Linux%20Larper&descSize=20&descAlign=50&descAlignY=66&color=gradient"  />
+</div>
+# Hello! I'm Arufa (｡•̀ᴗ-)✧
 
+> **AI Enthusiast & Linux Larper.** *"Honestly, gatau mau ngetik apalagi di sini... tapi selamat datang di pojok kecil internetku!"* ┐(︶▽︶)┌
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dityaperdana) 
+### ─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DityaPerdana&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DityaPerdana&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DityaPerdana&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### what I actually do
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DityaPerdana&theme=vue&no-frame=false&no-bg=false&margin-w=4)
+* **AI Tinkering:** Running local LLMs, prompt engineering, and making random scripts slightly smarter. `(o_ _)o`
+* **Linux Larping:** Rice-ing my desktop, breaking GRUB, and pretending I understand kernel compiling. `(＃＞＜)`
+* **Coding:** Writing bugs, staring at the terminal screen, and occasionally fixing them. `(；^ω^)`
+* **Tukang pecut ey ay:** Vibe coding—where I experiment with lots of tools, sambil tetap memastikan kualitas output yang dihasilkan. `( ´ ▽ ` )ﾉ`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+### projects I'm cooking 🍳
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DityaPerdana&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* **[AINO](https://github.com/arufadesuwa/AINO):** A micro-library for deep learning, built purely for educational and experimental purposes. `(つ✧ω✧)つ`
+* **[OchreML](https://github.com/arufadesuwa/OchreML):** Classical machine learning implemented in Rust (currently under active development). `(ง 🛠️_🛠️)ง`
 
----
-[![](https://visitcount.itsvg.in/api?id=DityaPerdana&icon=6&color=8)](https://visitcount.itsvg.in)
+### tools & environment
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+OS      :: Arch Linux (btw)                 (✧ω✧)
+Shell   :: Fish / Zsh                       (｀_´)ゞ
+Editor  :: Zed / Pycharm                    (＠_＠)
+Stack   :: Python, Rust, NumPy, Polars,     (ノ°∀°)ノ
+           TensorFlow
+```
+
+### current status
+
+- [ ] Actually finishing a side project `(シ. .)シ`
+- [x] Overthinking my `config.kdl` configuration `(￣^￣)ゞ`
+- [x] Arguing with an offline AI model at 2 AM `(＃`Д´)`
+- [x] Scroll fesnuk berjam-jam `(っ˘ڡ˘ς)`
+
+### find me on
+
+* **Web:** [arufa.dev](https://arufa.dev/) `(⌐■_■)`
+* **Kaggle:** [radityaalfarisi](https://www.kaggle.com/radityaalfarisi) `(✧ω✧)`
