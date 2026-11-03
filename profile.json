@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "login": "arufadesuwa",
+  "seed": "#B99472",
+  "seedFromAvatar": true,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "こんにちは (ᗒᗩᗕ)",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Indonesian - Minang"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "brand:linux",
+        "label": "Linux Larping"
+      },
+      {
+        "icon": "brand:claudecode",
+        "label": "vibe coder"
+      },
+      {
+        "icon": "brand:facebook",
+        "label": "fesnuk scrolling"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "Typescript"
+          },
+          {
+            "icon": "brand:numpy",
+            "label": "Numpy"
+          },
+          {
+            "icon": "brand:polars",
+            "label": "Polars"
+          },
+          {
+            "icon": "brand:pandas",
+            "label": "Pandas"
+          },
+          {
+            "icon": "brand:svelte",
+            "label": "Svelte Kit"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue.js"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Mainly Arch btw"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "AINO",
+      "ochreml"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:kaggle",
+        "url": "https://www.kaggle.com/radityaalfarisi"
+      },
+      {
+        "icon": "brand:reddit",
+        "url": "https://www.reddit.com/user/Repulsive-Chip5060/"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "mailto:radityaalfarisi6@gmail.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "pill"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://arufafa.dev",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
