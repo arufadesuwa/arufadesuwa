@@ -1,0 +1,201 @@
+{
+ "key": "fdff36c3",
+ "stars": 9,
+ "contributions": 412,
+ "repos": 5,
+ "followers": 36,
+ "languages": [
+  [
+   "TypeScript",
+   194593
+  ],
+  [
+   "Rust",
+   112801
+  ],
+  [
+   "Python",
+   63628
+  ],
+  [
+   "CSS",
+   23205
+  ],
+  [
+   "HTML",
+   21042
+  ],
+  [
+   "JavaScript",
+   12303
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 4,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 3,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 6
+ },
+ "pins": [
+  {
+   "name": "AINO",
+   "url": "https://github.com/arufadesuwa/AINO",
+   "text": "A custom-built Deep Learning micro-library built from scratch using pure Python and NumPy.",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ochreml",
+   "url": "https://github.com/arufadesuwa/ochreml",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "AINO",
+   "url": "https://github.com/arufadesuwa/AINO",
+   "text": "A custom-built Deep Learning micro-library built from scratch using pure Python and NumPy.",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "arufadesuwa",
+   "url": "https://github.com/arufadesuwa/arufadesuwa",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "XPPLG1",
+   "url": "https://github.com/arufadesuwa/XPPLG1",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ochreml",
+   "url": "https://github.com/arufadesuwa/ochreml",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "fina-ai-powered-apps",
+   "url": "https://github.com/arufadesuwa/fina-ai-powered-apps",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
