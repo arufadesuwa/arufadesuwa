@@ -1,7 +1,7 @@
 {
- "key": "f4350bc",
+ "key": "7b767efc",
  "stars": 9,
- "contributions": 415,
+ "contributions": 414,
  "repos": 5,
  "followers": 36,
  "languages": [
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
