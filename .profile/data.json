@@ -1,9 +1,9 @@
 {
- "key": "992daa4",
+ "key": "edd972a5",
  "stars": 9,
  "contributions": 415,
  "repos": 5,
- "followers": 36,
+ "followers": 37,
  "languages": [
   [
    "TypeScript",
@@ -119,16 +119,20 @@
    {
     "c": 0,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 6
  },
  "pins": [
