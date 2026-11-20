@@ -1,5 +1,5 @@
 {
- "key": "67ac6fea",
+ "key": "ca24a814",
  "stars": 9,
  "contributions": 440,
  "repos": 5,
@@ -129,9 +129,13 @@
    {
     "c": 4,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
